@@ -1,4 +1,4 @@
-# rekord
+# Rekord
 
 
 A public place to handle rekord project issues
